@@ -1,0 +1,6 @@
+module Pods_pokemonBattleMobile_pokemonBattleMobileTests {
+  umbrella header "Pods-pokemonBattleMobile-pokemonBattleMobileTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
